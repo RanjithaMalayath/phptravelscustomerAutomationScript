@@ -1,0 +1,18 @@
+<suite name = "PHPTravels Customer Module Test Suite">
+<test name = "Customer Login Test">
+<classes>
+<class name ="testrunners.CustomerLoginTest"></class>
+</classes>
+</test>
+<test name = "Customer Profile Management Test">
+<classes>
+<class name ="testrunners.CustomerProfileManagementTest"></class>
+</classes>
+</test>
+<test name = "Hotel Booking Test">
+<classes>
+<class name ="testrunners.BookHotelTest"></class>
+</classes>
+</test>
+
+</suite>
